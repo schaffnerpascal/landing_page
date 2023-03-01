@@ -1,0 +1,13 @@
+.button-cta {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: black;
+}
+
+.button-cta {
+  text-decoration: none;
+  font-family: Poppins;
+  font-size: 25px;
+}
